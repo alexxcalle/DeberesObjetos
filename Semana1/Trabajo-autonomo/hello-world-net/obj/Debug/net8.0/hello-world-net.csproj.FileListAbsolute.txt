@@ -1,0 +1,14 @@
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/bin/Debug/net8.0/hello-world-net
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/bin/Debug/net8.0/hello-world-net.deps.json
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/bin/Debug/net8.0/hello-world-net.runtimeconfig.json
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/bin/Debug/net8.0/hello-world-net.dll
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/bin/Debug/net8.0/hello-world-net.pdb
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.AssemblyInfoInputs.cache
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.AssemblyInfo.cs
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.dll
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/refint/hello-world-net.dll
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.pdb
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/hello-world-net.genruntimeconfig.cache
+/home/alex/Documentos/workspace/insti/hello-world/hello-world-net/obj/Debug/net8.0/ref/hello-world-net.dll
