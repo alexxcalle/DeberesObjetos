@@ -1,0 +1,15 @@
+<!-- father.component.html -->
+<div style="padding: 20px;">
+  <nz-card nzTitle="Willy Wonka😎:">
+    <div class="borderVariables">
+      <div>Variable del Padre:</div>
+      <div>parentMessageInput</div>
+      <div>childMessageEventOutput</div>
+    </div>
+    <div class="border">Hijo usando &#64;Output: <h3>{{ childMessageEventOutput }}</h3></div>
+    <app-child [parentMessageInput]="parentMessageInput" (childMessageEventOutput)="receiveMessage($event)">
+      <div class="border">Padre usando &#64;ContentChild: <h3>Necesito que te comuniques con el bodeguero para que te ayude a bajar la carga. </h3></div>
+    </app-child>
+
+  </nz-card>
+</div>
